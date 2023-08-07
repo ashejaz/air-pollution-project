@@ -1,0 +1,18 @@
+/* style.css */
+
+/* Set the font family and margins for the whole body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Center the h1 header text */
+h1 {
+    text-align: center;
+}
+
+/* Adjust the width and center the chart container */
+#chart-container {
+    width: 80%;
+    margin: 0 auto;
+}

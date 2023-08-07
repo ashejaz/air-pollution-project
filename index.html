@@ -1,0 +1,59 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- this is the bootstrap libraries so you can import all the features of bootstrap-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+    <title>Air Pollution Dashboard</title>
+
+    <!-- Link the CSS file -->
+    <link rel="stylesheet" href="style.css">
+
+    <!--NAVBAR
+    Its a nav class and its expanded to large. bg(background color) is success which is green
+  The class container has styles which indicate the style
+the <a is a button and the type and the href is# however this can be changed later one once the site is more developed
+-->
+    
+
+    <nav class="navbar navbar-expand-lg bg-success ">
+        <div class="container-fluid bg-dark">
+          <a class="navbar-brand" href="#">Air Pollution</a>
+          <button class="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse bg-light" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active bg-light" aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item bg-light">
+                <a class="nav-link" href="#">Example</a>
+              </li>
+              <li class="nav-itembg-light">
+                <a class="nav-link" href="#">Unnamed</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+</head>
+
+<body>
+    <!-- Display the dashboard title -->
+    <h1>Air Pollution Dashboard</h1>
+    <!-- Placeholder for the chart -->
+    <div id="chart-container"></div>
+
+    <!-- Include Plotly and the JavaScript file -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script type="script"  href="script.js"></script>
+</body>
+
+</html>

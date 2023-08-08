@@ -1,0 +1,1595 @@
+{
+    "status": "ok",
+    "data": [
+        {
+            "lat": 52.411563,
+            "lon": -1.560228,
+            "uid": 8913,
+            "aqi": "13",
+            "station": {
+                "name": "Coventry Allesley, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.54914,
+            "lon": -2.638139,
+            "uid": 3220,
+            "aqi": "28",
+            "station": {
+                "name": "Wigan Centre, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 56.124331,
+            "lon": -3.141347,
+            "uid": 5994,
+            "aqi": "8",
+            "station": {
+                "name": "Fife Kirkcaldy, United Kingdom",
+                "time": "2023-08-09T01:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.97671,
+            "lon": -3.59731,
+            "uid": 6026,
+            "aqi": "10",
+            "station": {
+                "name": "West Lothian Linlithgow High Street 2, United Kingdom",
+                "time": "2023-08-09T01:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.938253,
+            "lon": -4.317753,
+            "uid": 5981,
+            "aqi": "10",
+            "station": {
+                "name": "East Dunbartonshire Milngavie , United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.285833000178,
+            "lon": -6.1319440004234,
+            "uid": 13380,
+            "aqi": "10",
+            "station": {
+                "name": "Dun Laoghaire, Ireland",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.54421,
+            "lon": -0.175269,
+            "uid": 3166,
+            "aqi": "50",
+            "station": {
+                "name": "Camden Kerbside, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 50.73957,
+            "lon": -1.826744,
+            "uid": 10096,
+            "aqi": "25",
+            "station": {
+                "name": "Bournemouth, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.142082,
+            "lon": -0.194181,
+            "uid": 14624,
+            "aqi": "21",
+            "station": {
+                "name": "Reigate and Banstead - Poles Lane, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.48152,
+            "lon": -2.237881,
+            "uid": 3196,
+            "aqi": "21",
+            "station": {
+                "name": "Manchester Piccadilly, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.311838999844,
+            "lon": -6.2353160004029,
+            "uid": 13372,
+            "aqi": "20",
+            "station": {
+                "name": "Clonskeagh, Ireland",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 50.694352777777,
+            "lon": 1.5765724414782,
+            "uid": 6249,
+            "aqi": "24",
+            "station": {
+                "name": "Outreau, Nord-Pas-de-Calais, France",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.520787459334,
+            "lon": 0.20546070569404,
+            "uid": 7947,
+            "aqi": "15",
+            "station": {
+                "name": "Havering - Rainham, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.48481,
+            "lon": -2.334139,
+            "uid": 3208,
+            "aqi": "25",
+            "station": {
+                "name": "Salford Eccles, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 54.24634,
+            "lon": -6.961403,
+            "uid": 13391,
+            "aqi": "7",
+            "station": {
+                "name": "Monaghan Town, Ireland",
+                "time": "2023-08-09T04:00:00+09:00"
+            }
+        },
+        {
+            "lat": 52.20843,
+            "lon": 0.141521,
+            "uid": 3225,
+            "aqi": "-",
+            "station": {
+                "name": "Cambridge Newmarket Road, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.02821,
+            "lon": -2.175133,
+            "uid": 3215,
+            "aqi": "20",
+            "station": {
+                "name": "Stoke-on-Trent Centre, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.99356,
+            "lon": -7.3628,
+            "uid": 13370,
+            "aqi": "7",
+            "station": {
+                "name": "Cavan Town, Ireland",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 56.319444,
+            "lon": -3.014167,
+            "uid": 5992,
+            "aqi": "7",
+            "station": {
+                "name": "Fife Cupar, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 57.481308,
+            "lon": -4.241451,
+            "uid": 10873,
+            "aqi": "6",
+            "station": {
+                "name": "Inverness, United Kingdom",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.896909,
+            "lon": -3.31966,
+            "uid": 6340,
+            "aqi": "9",
+            "station": {
+                "name": "Edinburgh Currie, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.79412,
+            "lon": -4.354968,
+            "uid": 8046,
+            "aqi": "28",
+            "station": {
+                "name": "Glasgow Waulkmillglen Reservoir, United Kingdom",
+                "time": "2023-08-09T01:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.34633,
+            "lon": -2.844333,
+            "uid": 3187,
+            "aqi": "25",
+            "station": {
+                "name": "Liverpool Speke, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.934357,
+            "lon": -3.46919,
+            "uid": 6025,
+            "aqi": "14",
+            "station": {
+                "name": "West Lothian Broxburn, United Kingdom",
+                "time": "2023-08-09T01:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.944079,
+            "lon": -4.734421,
+            "uid": 10098,
+            "aqi": "26",
+            "station": {
+                "name": "Greenock A8 Roadside, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.6851,
+            "lon": -1.8388,
+            "uid": -207685,
+            "aqi": "-",
+            "station": {
+                "name": "Westgate",
+                "time": "2023-08-09T04:36:56+09:00"
+            }
+        },
+        {
+            "lat": 52.95473,
+            "lon": -1.146447,
+            "uid": 3200,
+            "aqi": "23",
+            "station": {
+                "name": "Nottingham Centre, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.378622,
+            "lon": -1.478096,
+            "uid": 5021,
+            "aqi": "23",
+            "station": {
+                "name": "Sheffield Devonshire Green, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.74032,
+            "lon": -3.2983,
+            "uid": 8056,
+            "aqi": "13",
+            "station": {
+                "name": "Caerphilly Fochriw, United Kingdom",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 54.88361,
+            "lon": -1.406878,
+            "uid": 3217,
+            "aqi": "20",
+            "station": {
+                "name": "Sunderland Silksworth, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.9425,
+            "lon": -3.281111,
+            "uid": 9580,
+            "aqi": "14",
+            "station": {
+                "name": "Edinburgh St John's Road, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.108,
+            "lon": -6.738,
+            "uid": -87253,
+            "aqi": "8",
+            "station": {
+                "name": "L6086",
+                "time": "2023-08-09T04:50:12+09:00"
+            }
+        },
+        {
+            "lat": 52.090561,
+            "lon": -7.620018,
+            "uid": 13381,
+            "aqi": "3",
+            "station": {
+                "name": "Dungarvan, Co. Waterford, Ireland",
+                "time": "2023-08-09T04:00:00+09:00"
+            }
+        },
+        {
+            "lat": 50.82881,
+            "lon": -1.068583,
+            "uid": 3204,
+            "aqi": "20",
+            "station": {
+                "name": "Portsmouth, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 52.132417,
+            "lon": -0.300306,
+            "uid": 3210,
+            "aqi": "8",
+            "station": {
+                "name": "Sandy Roadside, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.732182,
+            "lon": -6.3200354,
+            "uid": 14661,
+            "aqi": "9",
+            "station": {
+                "name": "Drogheda, Co. Louth, Ireland",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.79216,
+            "lon": -3.2429,
+            "uid": 3159,
+            "aqi": "27",
+            "station": {
+                "name": "Auchencorth Moss, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.349142,
+            "lon": -6.450329,
+            "uid": 14769,
+            "aqi": "14",
+            "station": {
+                "name": "Lucan, Co. Dublin, Ireland",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 50.411463,
+            "lon": -4.227678,
+            "uid": 3209,
+            "aqi": "16",
+            "station": {
+                "name": "Saltash Callington Road, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.036124999831,
+            "lon": -7.2886750003803,
+            "uid": 13399,
+            "aqi": "17",
+            "station": {
+                "name": "Portlaoise, Co. Laois, Ireland",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.483907253348,
+            "lon": 0.00040739693584974,
+            "uid": 10103,
+            "aqi": "26",
+            "station": {
+                "name": "Greenwich - Trafalgar Road (Hoskins St), United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.434662706056,
+            "lon": 0.06422246717047,
+            "uid": 14616,
+            "aqi": "6",
+            "station": {
+                "name": "Greenwich - Fiveways Sidcup Rd A20, United Kingdom",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.520894546995,
+            "lon": -0.724024666515,
+            "uid": 14602,
+            "aqi": "12",
+            "station": {
+                "name": "Windsor and Maidenhead - Frascati Way, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.3425,
+            "lon": -7.0475,
+            "uid": 14662,
+            "aqi": "20",
+            "station": {
+                "name": "Edenderry Library, Co. Offaly, Ireland",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 54.821427,
+            "lon": -7.453291,
+            "uid": 6036,
+            "aqi": "21",
+            "station": {
+                "name": "Strabane Springhill Park, United Kingdom",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 54.861595,
+            "lon": -6.250873,
+            "uid": 6029,
+            "aqi": "22",
+            "station": {
+                "name": "Ballymena Ballykeel, United Kingdom",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.494648681305,
+            "lon": 0.13727911123218,
+            "uid": 7951,
+            "aqi": "17",
+            "station": {
+                "name": "Bexley - Belvedere West, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.410039,
+            "lon": -0.127523,
+            "uid": 8923,
+            "aqi": "17",
+            "station": {
+                "name": "Croydon - Norbury Manor, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.836203,
+            "lon": -4.508783,
+            "uid": 9583,
+            "aqi": "18",
+            "station": {
+                "name": "Renfrewshire Johnston, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 52.498500000107,
+            "lon": -6.5707499997314,
+            "uid": 13382,
+            "aqi": "11",
+            "station": {
+                "name": "Enniscorthy, Co. Wexford, Ireland",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.187221999756,
+            "lon": -6.1216669995869,
+            "uid": 5108,
+            "aqi": "25",
+            "station": {
+                "name": "Bray, Ireland",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 56.462383,
+            "lon": -2.96739,
+            "uid": 5974,
+            "aqi": "10",
+            "station": {
+                "name": "Dundee Seagate, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 52.619823,
+            "lon": -1.127311,
+            "uid": 4905,
+            "aqi": "20",
+            "station": {
+                "name": "Leicester University, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.788333,
+            "lon": -3.986389,
+            "uid": 6010,
+            "aqi": "13",
+            "station": {
+                "name": "N Lanarkshire Motherwell, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.2434,
+            "lon": -1.1275,
+            "uid": -125002,
+            "aqi": "1",
+            "station": {
+                "name": "IBASINGS39",
+                "time": "2023-08-09T04:50:04+09:00"
+            }
+        },
+        {
+            "lat": 51.569484331524,
+            "lon": 0.082907474896495,
+            "uid": 9041,
+            "aqi": "20",
+            "station": {
+                "name": "Redbridge - Ley Street, United Kingdom",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.836256,
+            "lon": -4.270768,
+            "uid": 6002,
+            "aqi": "26",
+            "station": {
+                "name": "Glasgow Nithsdale Road, United Kingdom",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 52.263829,
+            "lon": -7.117967,
+            "uid": 14770,
+            "aqi": "8",
+            "station": {
+                "name": "Merchants Quay, Waterford City, Ireland",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 54.003129999895,
+            "lon": -6.3926280000824,
+            "uid": 14211,
+            "aqi": "1",
+            "station": {
+                "name": "Dundalk, Co. Louth, Ireland",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 54.353728,
+            "lon": -6.654558,
+            "uid": 6028,
+            "aqi": "-",
+            "station": {
+                "name": "Armagh Lonsdale Road, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.525156,
+            "lon": -7.337529,
+            "uid": 14663,
+            "aqi": "-",
+            "station": {
+                "name": "Mullingar, Co. Westmeath, Ireland",
+                "time": "2023-08-02T05:00:00+09:00"
+            }
+        },
+        {
+            "lat": 54.569297,
+            "lon": -1.220874,
+            "uid": 3197,
+            "aqi": "24",
+            "station": {
+                "name": "Middlesbrough, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.991087,
+            "lon": -3.941685,
+            "uid": 5990,
+            "aqi": "8",
+            "station": {
+                "name": "Falkirk Haggs, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.617333,
+            "lon": -0.298777,
+            "uid": 3192,
+            "aqi": "25",
+            "station": {
+                "name": "London Harrow Stanmore, United Kingdom",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.76559,
+            "lon": -2.680353,
+            "uid": 3205,
+            "aqi": "24",
+            "station": {
+                "name": "Preston, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.870766,
+            "lon": -4.318448,
+            "uid": 6000,
+            "aqi": "14",
+            "station": {
+                "name": "Glasgow Dumbarton Road, United Kingdom",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.33,
+            "lon": -6.288,
+            "uid": -354841,
+            "aqi": "65",
+            "station": {
+                "name": "Aughavanagh Road",
+                "time": "2023-08-09T04:49:22+09:00"
+            }
+        },
+        {
+            "lat": 51.666667,
+            "lon": -3.194919,
+            "uid": 8055,
+            "aqi": "13",
+            "station": {
+                "name": "Caerphilly Blackwood High Street, United Kingdom",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.632696,
+            "lon": -3.947374,
+            "uid": 3218,
+            "aqi": "25",
+            "station": {
+                "name": "Swansea Roadside, United Kingdom",
+                "time": "2023-08-09T04:00:00+09:00"
+            }
+        },
+        {
+            "lat": 50.916932,
+            "lon": -0.449548,
+            "uid": 3216,
+            "aqi": "23",
+            "station": {
+                "name": "Storrington Roadside, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.601203,
+            "lon": -2.977281,
+            "uid": 8059,
+            "aqi": "17",
+            "station": {
+                "name": "Newport St Julians Comp School, United Kingdom",
+                "time": "2023-08-09T04:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.74878,
+            "lon": -0.341222,
+            "uid": 3181,
+            "aqi": "28",
+            "station": {
+                "name": "Hull Freetown, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.944008,
+            "lon": -3.059223,
+            "uid": 6339,
+            "aqi": "-",
+            "station": {
+                "name": "East Lothian Musselburgh N High St, United Kingdom",
+                "time": "2023-08-08T14:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.374264,
+            "lon": 0.54797,
+            "uid": 3169,
+            "aqi": "18",
+            "station": {
+                "name": "Chatham Roadside, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 50.37167,
+            "lon": -4.142361,
+            "uid": 3202,
+            "aqi": "17",
+            "station": {
+                "name": "Plymouth Centre, United Kingdom",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.48879,
+            "lon": -0.441614,
+            "uid": 3191,
+            "aqi": "13",
+            "station": {
+                "name": "London Harlington, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.149617,
+            "lon": -1.438228,
+            "uid": 8912,
+            "aqi": "21",
+            "station": {
+                "name": "Chilbolton Observatory, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.46008,
+            "lon": -2.472056,
+            "uid": 9080,
+            "aqi": "27",
+            "station": {
+                "name": "Glazebury, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.614578,
+            "lon": -4.666786,
+            "uid": 6012,
+            "aqi": "15",
+            "station": {
+                "name": "North Ayrshire Irvine High St, United Kingdom",
+                "time": "2023-08-09T01:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.385636000137,
+            "lon": -6.3699340002986,
+            "uid": 13365,
+            "aqi": "21",
+            "station": {
+                "name": "Blanchardstown, Ireland",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 52.5302193,
+            "lon": -7.1379192,
+            "uid": 14656,
+            "aqi": "9",
+            "station": {
+                "name": "Thomastown, Co. Kilkenny, Ireland",
+                "time": "2023-08-09T04:00:00+09:00"
+            }
+        },
+        {
+            "lat": 52.614193,
+            "lon": 1.301976,
+            "uid": 3199,
+            "aqi": "26",
+            "station": {
+                "name": "Norwich Lakenfields, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.552476,
+            "lon": -0.258089,
+            "uid": 7944,
+            "aqi": "25",
+            "station": {
+                "name": "Brent - Ikea, United Kingdom",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.273135,
+            "lon": -7.4966531,
+            "uid": 13410,
+            "aqi": "6",
+            "station": {
+                "name": "Tullamore, Co. Offaly, Ireland",
+                "time": "2023-08-09T04:00:00+09:00"
+            }
+        },
+        {
+            "lat": 52.958,
+            "lon": -7.47,
+            "uid": -214759,
+            "aqi": "5",
+            "station": {
+                "name": "L16201",
+                "time": "2023-08-09T04:50:46+09:00"
+            }
+        },
+        {
+            "lat": 53.967513,
+            "lon": -1.086514,
+            "uid": 3222,
+            "aqi": "22",
+            "station": {
+                "name": "York Bootham, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.458994,
+            "lon": -2.005694,
+            "uid": 9049,
+            "aqi": "-",
+            "station": {
+                "name": "Tameside Mottram Moor, United Kingdom",
+                "time": "2023-08-09T01:00:00+09:00"
+            }
+        },
+        {
+            "lat": 52.272257,
+            "lon": -0.916605,
+            "uid": 10099,
+            "aqi": "30",
+            "station": {
+                "name": "Northampton Spring Park, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.244131,
+            "lon": -1.454946,
+            "uid": 8911,
+            "aqi": "25",
+            "station": {
+                "name": "Chesterfield Loundsley Green, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.579656,
+            "lon": -3.766465,
+            "uid": 8063,
+            "aqi": "46",
+            "station": {
+                "name": "Port Talbot Prince Street 2, United Kingdom",
+                "time": "2023-08-09T04:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.673936,
+            "lon": -3.775658,
+            "uid": 8667,
+            "aqi": "12",
+            "station": {
+                "name": "South Lanarkshire Lanark, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 56.117343,
+            "lon": -3.791818,
+            "uid": 8668,
+            "aqi": "8",
+            "station": {
+                "name": "Alloa A907, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 52.638797999972,
+            "lon": -7.268113999933,
+            "uid": 14210,
+            "aqi": "16",
+            "station": {
+                "name": "Kilkenny, Ireland",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.289391,
+            "lon": 0.201437,
+            "uid": 14622,
+            "aqi": "20",
+            "station": {
+                "name": "Sevenoaks - Greatness Park, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.518167,
+            "lon": 0.439548,
+            "uid": 3213,
+            "aqi": "-",
+            "station": {
+                "name": "Stanford-le-Hope Roadside, United Kingdom",
+                "time": "2023-08-08T06:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.744806,
+            "lon": -1.260278,
+            "uid": 3201,
+            "aqi": "11",
+            "station": {
+                "name": "Oxford St Ebbes, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.638094,
+            "lon": -2.678731,
+            "uid": 3170,
+            "aqi": "5",
+            "station": {
+                "name": "Chepstow A48, United Kingdom",
+                "time": "2023-08-09T04:00:00+09:00"
+            }
+        },
+        {
+            "lat": 56.399327,
+            "lon": -3.434182,
+            "uid": 6016,
+            "aqi": "7",
+            "station": {
+                "name": "Perth Atholl Street, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.6063,
+            "lon": 0.5896,
+            "uid": -109597,
+            "aqi": "13",
+            "station": {
+                "name": "Rawreth Lane",
+                "time": "2023-08-09T04:39:34+09:00"
+            }
+        },
+        {
+            "lat": 52.89670494002,
+            "lon": -7.33202648189,
+            "uid": -196696,
+            "aqi": "2",
+            "station": {
+                "name": "L5731",
+                "time": "2023-08-09T04:48:51+09:00"
+            }
+        },
+        {
+            "lat": 53.819972,
+            "lon": -1.576361,
+            "uid": 3185,
+            "aqi": "25",
+            "station": {
+                "name": "Leeds Headingley Kerbside, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.280541000076,
+            "lon": -6.3588420002256,
+            "uid": 13407,
+            "aqi": "14",
+            "station": {
+                "name": "Tallaght, Ireland",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 56.036243,
+            "lon": -3.417582,
+            "uid": 5995,
+            "aqi": "11",
+            "station": {
+                "name": "Fife Rosyth, United Kingdom",
+                "time": "2023-08-09T01:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.84581,
+            "lon": -3.947346,
+            "uid": 6006,
+            "aqi": "10",
+            "station": {
+                "name": "N Lanarkshire Chapelhall, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.464531,
+            "lon": -4.631673,
+            "uid": 6021,
+            "aqi": "12",
+            "station": {
+                "name": "South Ayrshire Ayr High St, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.405546,
+            "lon": 0.018882,
+            "uid": 14639,
+            "aqi": "34",
+            "station": {
+                "name": "Bromley - Harwood Avenue, United Kingdom",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.781784,
+            "lon": -4.691462,
+            "uid": 10680,
+            "aqi": "20",
+            "station": {
+                "name": "Narberth, United Kingdom",
+                "time": "2023-08-09T04:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.983925,
+            "lon": -3.455939,
+            "uid": 6027,
+            "aqi": "10",
+            "station": {
+                "name": "West Lothian Newton, United Kingdom",
+                "time": "2023-08-09T01:00:00+09:00"
+            }
+        },
+        {
+            "lat": 54.361111,
+            "lon": -6.225,
+            "uid": 13390,
+            "aqi": "16",
+            "station": {
+                "name": "Marino, Dublin 3, Ireland",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 56.373126,
+            "lon": -3.841475,
+            "uid": 6017,
+            "aqi": "7",
+            "station": {
+                "name": "Perth Crieff, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 50.90814,
+            "lon": -1.395778,
+            "uid": 3211,
+            "aqi": "18",
+            "station": {
+                "name": "Southampton Centre, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.562376,
+            "lon": -0.004898,
+            "uid": 11768,
+            "aqi": "30",
+            "station": {
+                "name": "Waltham Forest Dawlish Rd, United Kingdom",
+                "time": "2023-08-09T01:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.074793,
+            "lon": -4.041924,
+            "uid": 4903,
+            "aqi": "2",
+            "station": {
+                "name": "Barnstaple A39, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.563481,
+            "lon": -2.330732,
+            "uid": 9046,
+            "aqi": "-",
+            "station": {
+                "name": "Bury Radcliffe, United Kingdom",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.80489,
+            "lon": -3.007175,
+            "uid": 3164,
+            "aqi": "27",
+            "station": {
+                "name": "Blackpool Marton, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 54.59965,
+            "lon": -5.928833,
+            "uid": 6030,
+            "aqi": "22",
+            "station": {
+                "name": "Belfast Centre, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 57.141922,
+            "lon": -2.091664,
+            "uid": 5966,
+            "aqi": "10",
+            "station": {
+                "name": "Aberdeen Market Street 2, United Kingdom",
+                "time": "2023-08-09T01:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.613865,
+            "lon": -0.125338,
+            "uid": 14594,
+            "aqi": "6",
+            "station": {
+                "name": "Enfield - Bowes Primary School, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.462839,
+            "lon": -2.584482,
+            "uid": 8917,
+            "aqi": "15",
+            "station": {
+                "name": "Bristol St Paul's, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 52.5284,
+            "lon": -1.5077,
+            "uid": -110575,
+            "aqi": "-",
+            "station": {
+                "name": "Camp Hill",
+                "time": "2023-08-09T04:50:44+09:00"
+            }
+        },
+        {
+            "lat": 53.655483,
+            "lon": -6.68847,
+            "uid": 13393,
+            "aqi": "14",
+            "station": {
+                "name": "Navan, Co. Meath, Ireland",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.137443,
+            "lon": -7.456503,
+            "uid": 13367,
+            "aqi": "11",
+            "station": {
+                "name": "Buncranna, Co. Donegal, Ireland",
+                "time": "2023-08-09T04:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.45617,
+            "lon": 0.634889,
+            "uid": 3207,
+            "aqi": "18",
+            "station": {
+                "name": "Rochester Stoke, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.48178,
+            "lon": -3.17625,
+            "uid": 3167,
+            "aqi": "15",
+            "station": {
+                "name": "Cardiff Centre, United Kingdom",
+                "time": "2023-08-09T04:00:00+09:00"
+            }
+        },
+        {
+            "lat": 52.28881,
+            "lon": -1.533119,
+            "uid": 3182,
+            "aqi": "23",
+            "station": {
+                "name": "Leamington Spa, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.002818,
+            "lon": -7.331179,
+            "uid": 8914,
+            "aqi": "22",
+            "station": {
+                "name": "Derry Rosemount, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.37287,
+            "lon": -3.022722,
+            "uid": 3221,
+            "aqi": "25",
+            "station": {
+                "name": "Wirral Tranmere, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.80378,
+            "lon": -1.546472,
+            "uid": 3184,
+            "aqi": "25",
+            "station": {
+                "name": "Leeds Centre, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.607469,
+            "lon": -4.497986,
+            "uid": 5976,
+            "aqi": "11",
+            "station": {
+                "name": "E Ayrshire Kilmarnock St Marnock St, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 54.543516,
+            "lon": -6.008608,
+            "uid": 6342,
+            "aqi": "17",
+            "station": {
+                "name": "Lisburn Dunmurry Seymour Hill, United Kingdom",
+                "time": "2023-08-08T21:00:00+09:00"
+            }
+        },
+        {
+            "lat": 56.642076,
+            "lon": -2.894328,
+            "uid": 8669,
+            "aqi": "5",
+            "station": {
+                "name": "Angus Forfar Glamis Rd, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.12009,
+            "lon": -0.0252,
+            "uid": -129121,
+            "aqi": "17",
+            "station": {
+                "name": "Turners Hill Road",
+                "time": "2023-08-09T04:43:10+09:00"
+            }
+        },
+        {
+            "lat": 51.57661,
+            "lon": 0.030858,
+            "uid": 8918,
+            "aqi": "10",
+            "station": {
+                "name": "Redbridge - Gardner Close, United Kingdom",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.379312,
+            "lon": -0.281259,
+            "uid": 14619,
+            "aqi": "57",
+            "station": {
+                "name": "Kingston Upon Thames - Tolworth Broadway, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.3771105,
+            "lon": -2.12021337,
+            "uid": 9048,
+            "aqi": "-",
+            "station": {
+                "name": "Stockport Hazel Grove, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 56.11472,
+            "lon": -3.932178,
+            "uid": 6024,
+            "aqi": "7",
+            "station": {
+                "name": "Stirling Craig's Roundabout, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.368793999948,
+            "lon": -6.1726370000744,
+            "uid": 13404,
+            "aqi": "15",
+            "station": {
+                "name": "St. Anne's Park, Dublin 5, Ireland",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 54.180381,
+            "lon": -6.33924,
+            "uid": 6034,
+            "aqi": "10",
+            "station": {
+                "name": "Newry Canal Street, United Kingdom",
+                "time": "2023-08-09T01:00:00+09:00"
+            }
+        },
+        {
+            "lat": 52.481346,
+            "lon": -1.918235,
+            "uid": 11652,
+            "aqi": "20",
+            "station": {
+                "name": "Birmingham Ladywood, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.38928,
+            "lon": -2.615358,
+            "uid": 3219,
+            "aqi": "27",
+            "station": {
+                "name": "Warrington, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 54.97825,
+            "lon": -1.610528,
+            "uid": 3198,
+            "aqi": "23",
+            "station": {
+                "name": "Newcastle Centre, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.818357,
+            "lon": -4.081839,
+            "uid": 8047,
+            "aqi": "11",
+            "station": {
+                "name": "South Lanarkshire Uddingston, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 50.129447222222,
+            "lon": 1.6108333333332,
+            "uid": 5169,
+            "aqi": "-",
+            "station": {
+                "name": "Arrest, Picardie, France",
+                "time": "2023-08-06T01:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.04222,
+            "lon": -3.002778,
+            "uid": 11651,
+            "aqi": "25",
+            "station": {
+                "name": "Wrexham, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.218113,
+            "lon": -6.659089,
+            "uid": 14655,
+            "aqi": "15",
+            "station": {
+                "name": "Naas, Co. Kildare, Ireland",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 54.572586,
+            "lon": -5.974944,
+            "uid": 6031,
+            "aqi": "22",
+            "station": {
+                "name": "Belfast Stockman's Lane, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.53,
+            "lon": -6.312,
+            "uid": -215359,
+            "aqi": "12",
+            "station": {
+                "name": "Oldtown",
+                "time": "2023-08-09T04:43:32+09:00"
+            }
+        },
+        {
+            "lat": 54.516667,
+            "lon": -1.358547,
+            "uid": 3214,
+            "aqi": "11",
+            "station": {
+                "name": "Stockton-on-Tees Eaglescliffe, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.793907,
+            "lon": -4.092354,
+            "uid": 11655,
+            "aqi": "12",
+            "station": {
+                "name": "South Lanarkshire Blantyre, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 50.735454,
+            "lon": -1.780888,
+            "uid": 10097,
+            "aqi": "25",
+            "station": {
+                "name": "Christchurch Barrack Road, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 54.565819,
+            "lon": -1.3159,
+            "uid": 8916,
+            "aqi": "24",
+            "station": {
+                "name": "Stockton-on-Tees A1305 Roadside, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 56.07383,
+            "lon": -3.44862,
+            "uid": 5993,
+            "aqi": "10",
+            "station": {
+                "name": "Fife Dunfermline, United Kingdom",
+                "time": "2023-08-09T01:00:00+09:00"
+            }
+        },
+        {
+            "lat": 56.018951,
+            "lon": -3.721013,
+            "uid": 5989,
+            "aqi": "88",
+            "station": {
+                "name": "Falkirk Grangemouth MC, United Kingdom",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 52.338033,
+            "lon": -6.462139,
+            "uid": 13413,
+            "aqi": "9",
+            "station": {
+                "name": "Wexford Opera House, Ireland",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        },
+        {
+            "lat": 53.37,
+            "lon": -6.588,
+            "uid": -92452,
+            "aqi": "-",
+            "station": {
+                "name": "Carton Court",
+                "time": "2023-08-09T04:50:57+09:00"
+            }
+        },
+        {
+            "lat": 51.425286,
+            "lon": -0.345606,
+            "uid": 3195,
+            "aqi": "13",
+            "station": {
+                "name": "London Teddington Bushy Park, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 51.45309,
+            "lon": -0.944067,
+            "uid": 3206,
+            "aqi": "15",
+            "station": {
+                "name": "Reading New Town, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 55.945589,
+            "lon": -3.182186,
+            "uid": 3176,
+            "aqi": "22",
+            "station": {
+                "name": "Edinburgh St Leonards, United Kingdom",
+                "time": "2023-08-09T03:00:00+09:00"
+            }
+        },
+        {
+            "lat": 52.839722000107,
+            "lon": -6.9316667000657,
+            "uid": 13368,
+            "aqi": "16",
+            "station": {
+                "name": "Carlow Town, Ireland",
+                "time": "2023-08-09T02:00:00+09:00"
+            }
+        }
+    ]
+}

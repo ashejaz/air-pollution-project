@@ -46,7 +46,6 @@ The data was imported into a SQL database, cleaned further and queried. The full
 ## Website
 
 The final deployment of our website can be found [here](https://ashejaz.github.io/air-pollution-project/index.html).
-The menu bar allows for navigation between pages.
 
 HTML files:
 - [about.html](about.html)
@@ -65,6 +64,10 @@ CSS files:
 ### Main Page
 
 <img width="1039" alt="Screenshot 2023-08-15 at 14 25 02" src="https://github.com/ashejaz/air-pollution-project/assets/127614970/da8a0e01-5ae0-48d1-8ec5-c059fe7875d0">
+
+The main page consists of a menu bar allowing for navigation between pages and a brief introduction to air quality. It also describes how air pollution is a significant concern as it is the 3rd leading cause of death globally.
+
+<img width="1365" alt="Screenshot 2023-08-15 at 16 51 45" src="https://github.com/ashejaz/air-pollution-project/assets/127614970/2b5f093a-2172-4936-96bb-c636d16dd44a">
 
 ### Map
 

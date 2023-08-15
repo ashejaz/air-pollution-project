@@ -35,7 +35,7 @@ The cleaned data was exported in both [CSV](data/air_pollution_data.csv) and [JS
 
 ### SQL Database
 
-The data was imported into a SQL database, cleaned further and queried. The full script can be viewed [here](sql/data_pollution query.sql).
+The data was imported into a SQL database, cleaned further and queried. The full script can be viewed [here](sql/data_pollution_query.sql).
 
 ## Website
 

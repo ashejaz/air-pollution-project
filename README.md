@@ -109,6 +109,6 @@ Some of our results can be viewed in tabular format below:
 
 ## References
 
-AQICN API data - [](https://aqicn.org/json-api/doc/)
+[AQICN API](https://aqicn.org/json-api/doc/)
 
 

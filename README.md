@@ -41,7 +41,13 @@ The final dataset contained data for 1261 stations.
 
 ### SQL Database
 
-The data was imported into a SQL database, cleaned further and queried. The full script can be viewed [here](sql/data_pollution_query.sql).
+The data was imported into a SQL database, cleaned further and queried. 
+
+![image](https://github.com/ashejaz/air-pollution-project/assets/127614970/061a51e0-1d0c-4702-b673-1d5f801d52a0)
+
+![image (1)](https://github.com/ashejaz/air-pollution-project/assets/127614970/105845a3-c33c-438e-9d13-c805da804825)
+
+The full script can be viewed [here](sql/data_pollution_query.sql).
 
 ## Website
 
